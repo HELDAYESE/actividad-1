@@ -33,6 +33,7 @@ public class Main {
         System.out.println(" TV");
 
         int opcionMedio = sc.nextInt();
+
         if (opcionCandidato == 1) {
             votosC1++;
             System.out.println(" Voto registrado para " + candidato1);
